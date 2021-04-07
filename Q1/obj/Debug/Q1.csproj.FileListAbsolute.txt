@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Q1\Q1\bin\Debug\Q1.exe.config
+C:\Users\USER\source\repos\Q1\Q1\bin\Debug\Q1.exe
+C:\Users\USER\source\repos\Q1\Q1\bin\Debug\Q1.pdb
+C:\Users\USER\source\repos\Q1\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Q1\Q1\obj\Debug\Q1.exe
+C:\Users\USER\source\repos\Q1\Q1\obj\Debug\Q1.pdb
+C:\WebDevlopment\Interview\Q1\Q1\bin\Debug\Q1.exe.config
+C:\WebDevlopment\Interview\Q1\Q1\bin\Debug\Q1.exe
+C:\WebDevlopment\Interview\Q1\Q1\bin\Debug\Q1.pdb
+C:\WebDevlopment\Interview\Q1\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+C:\WebDevlopment\Interview\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+C:\WebDevlopment\Interview\Q1\Q1\obj\Debug\Q1.exe
+C:\WebDevlopment\Interview\Q1\Q1\obj\Debug\Q1.pdb
